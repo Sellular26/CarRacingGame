@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas{
+    border: 2px solid black;
+  }
+  input{
+    font-size: x-large;
+    padding: 50;
+    text-align: center;
+  }
+
+  button{
+    font-size: x-large;
+    background-color: yellow;
+  }
+
+  p{
+    background-color: wheat;
+  }
+  
+  
